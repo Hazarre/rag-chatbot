@@ -26,7 +26,15 @@ streamlit run .\streamlit_app.py
 - `data/` stores data that the llama index RAG pulls on.  
 
 
+## Demo 
+
+![alt text](https://github.com/Hazarre/rag-chatbot/blob/rag-demo.jpg?raw=true)
+
+
 ## References: 
 https://blog.streamlit.io/build-a-chatbot-with-custom-data-sources-powered-by-llamaindex/
+
+
+
 
 
