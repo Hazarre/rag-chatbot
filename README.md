@@ -28,7 +28,7 @@ streamlit run .\streamlit_app.py
 
 ## Demo 
 
-![alt text](https://github.com/Hazarre/rag-chatbot/blob/rag-demo.png?raw=true)
+![alt text](https://github.com/Hazarre/rag-chatbot/blob/main/rag-demo.png?raw=true)
 
 
 ## References: 
