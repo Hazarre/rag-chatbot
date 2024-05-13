@@ -16,12 +16,18 @@ To activate the environment on Windows:
 .venv\Scripts\Activate.ps1
 ```
 
+Get an OpenAI API key from https://platform.openai.com/ and store it at `.streamlit/secrets.toml` as: 
+```sh
+openai_key = "<API_KEY>"
+```
+
+
 ## Running the app
 ```
 streamlit run .\streamlit_app.py
 ```
 
-## Directory Scructure 
+## Directory Structure 
 - `scraper/` have scripts to crawl html pages.  
 - `data/` stores data that the llama index RAG pulls on.  
 
