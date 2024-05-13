@@ -29,7 +29,7 @@ streamlit run .\streamlit_app.py
 
 ## Directory Structure 
 - `scraper/` have scripts to crawl html pages.  
-- `data/` stores data that the llama index RAG pulls on.  
+- `data/` stores data that the llama index RAG pulls on. This repo currently stores Bard 2024 Fall Courselist .html files as an example. 
 
 
 ## Demo 
